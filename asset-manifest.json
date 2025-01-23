@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ResumeGenie-frontend/static/css/main.fb961db8.css",
+    "main.js": "/ResumeGenie-frontend/static/js/main.fdcc9bf0.js",
+    "static/js/488.bee1ab11.chunk.js": "/ResumeGenie-frontend/static/js/488.bee1ab11.chunk.js",
+    "index.html": "/ResumeGenie-frontend/index.html",
+    "main.fb961db8.css.map": "/ResumeGenie-frontend/static/css/main.fb961db8.css.map",
+    "main.fdcc9bf0.js.map": "/ResumeGenie-frontend/static/js/main.fdcc9bf0.js.map",
+    "488.bee1ab11.chunk.js.map": "/ResumeGenie-frontend/static/js/488.bee1ab11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb961db8.css",
+    "static/js/main.fdcc9bf0.js"
+  ]
+}
