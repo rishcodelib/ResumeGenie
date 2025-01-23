@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ResumeGenie-frontend/resume-genie/static/css/main.fb961db8.css",
-    "main.js": "/ResumeGenie-frontend/resume-genie/static/js/main.0c562d8b.js",
-    "static/js/488.bee1ab11.chunk.js": "/ResumeGenie-frontend/resume-genie/static/js/488.bee1ab11.chunk.js",
-    "index.html": "/ResumeGenie-frontend/resume-genie/index.html",
-    "main.fb961db8.css.map": "/ResumeGenie-frontend/resume-genie/static/css/main.fb961db8.css.map",
-    "main.0c562d8b.js.map": "/ResumeGenie-frontend/resume-genie/static/js/main.0c562d8b.js.map",
-    "488.bee1ab11.chunk.js.map": "/ResumeGenie-frontend/resume-genie/static/js/488.bee1ab11.chunk.js.map"
+    "main.css": "/ResumeGenie-frontend/resume-genie/public/static/css/main.fb961db8.css",
+    "main.js": "/ResumeGenie-frontend/resume-genie/public/static/js/main.33ae74d6.js",
+    "static/js/488.bee1ab11.chunk.js": "/ResumeGenie-frontend/resume-genie/public/static/js/488.bee1ab11.chunk.js",
+    "index.html": "/ResumeGenie-frontend/resume-genie/public/index.html",
+    "main.fb961db8.css.map": "/ResumeGenie-frontend/resume-genie/public/static/css/main.fb961db8.css.map",
+    "main.33ae74d6.js.map": "/ResumeGenie-frontend/resume-genie/public/static/js/main.33ae74d6.js.map",
+    "488.bee1ab11.chunk.js.map": "/ResumeGenie-frontend/resume-genie/public/static/js/488.bee1ab11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb961db8.css",
-    "static/js/main.0c562d8b.js"
+    "static/js/main.33ae74d6.js"
   ]
 }
