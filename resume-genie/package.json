@@ -2,7 +2,7 @@
   "name": "resume-genie",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rishcodelib.github.io/ResumeGenie-frontend/resume-genie",
+  "homepage": "https://rishcodelib.github.io/ResumeGenie-frontend",
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
